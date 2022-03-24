@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aferal
 - 👀 I’m interested in Cybersecurity, 
-learning
+I will not die before accomplishing:
  Kali Linux,
  Ethical Hacking, 
  Python,
@@ -8,15 +8,17 @@ learning
  Haitian Creole,
  Arabic,
  & also 
- AgileScrum, (I'm Certified)
- getting tfo of my country
-- 🌱 I’m currently learning Cybersec,
- Ethical Hacking, 
-All the fkin CompTIA's,
+ moving to New Zealand, then Madigascar
+- 🌱 I’m currently studying Cybersec,
+ Ethical Hacking, Agile Scrum (I'm certfied)
+A couple CompTIA's,
+AWS,
+Asian Philosophy (Hagakure, Philosophers of the Warring States, Art of War, Dao etc.)
  & currently working professionally in network troubleshooting
 - 💞️ I’m looking to collaborate on - 
-I am new and would like to find a mentor. 
-I am having a hard time with virtual machines (since I don't have space on my laptops? Maybe?)
+Anything you think you can teach me
+I am working on the cloud resume challenge
+I figured out instances on AWS, need more guidance on that
 
 - 📫 How to reach me : Discord  - Feral#5944
 
