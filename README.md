@@ -4,15 +4,9 @@ I will not die before accomplishing:
  Ethical Hacking, 
  Python,
  Spanish,
- Scoring some victory for humanity,
- & also 
- moving to New Zealand, & hopefully then Madagascar
-- 🌱 I’m currently studying Cybersec,
- Ethical Hacking, Agile Scrum (I'm certfied)
-A couple CompTIA's, (I've got 2, many more to come!)
-CEH,
-Asian Philosophy (Hagakure, Philosophers of the Warring States, Art of War, Dao etc.)
- & currently working professionally as a Cybersecurity Analyst I. 
+ Scoring some victory for humanity. 
+- 🌱 I’m currently studying Python, Sec+ renewal, Threat-hunting, 
+ & currently working professionally as a Cybersecurity Engineer II.
 - 💞️ I’m looking to collaborate on - 
 Anything you think you can teach me!
 
